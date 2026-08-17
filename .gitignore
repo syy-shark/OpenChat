@@ -1,0 +1,17 @@
+.gradle/
+build/
+**/build/
+.idea/
+*.iml
+local.properties
+.cxx/
+captures/
+*.apk
+*.aab
+.tooling/
+.audit/arena/candidate-*/
+node_modules/
+.DS_Store
+*.keystore
+*.jks
+*.db
